@@ -1,4 +1,4 @@
-# Reverse Engineering the Zepp Biocharge Score
+# Biocharge Systems Modelling
 
 An n-of-1 study using my own wearable data (January to November 2026) to reverse engineer the formula behind the Zepp daily Biocharge score, and to explore the structure and dynamics of the underlying physiology.
 
