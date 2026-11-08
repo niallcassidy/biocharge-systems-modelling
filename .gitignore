@@ -1,3 +1,23 @@
+# Project-specific: data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Project-specific: data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
 # History files
 .Rhistory
 .Rapp.history
